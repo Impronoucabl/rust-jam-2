@@ -2,7 +2,7 @@
 
 A highly opinionated template to use in the upcoming [Rusty Jam #2](https://itch.io/jam/rusty-jam-2).
 
-# Features
+## Features
 
 - GitHub Actions to lint, test builds and create releases.
 - Fast Compiles enabled and compatible with the GitHub Actions.
